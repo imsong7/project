@@ -1,4 +1,4 @@
-### week2_mnist
+### MNIST Classification
 
 - Goal : MNIST Classification
 - Using Model : Res50 
@@ -7,7 +7,7 @@
   - training_epochs = 15
   - batch_size = 100
 
-### 저해상도 조류 이미지 분류 AI 알고리즘 개발/ 데이콘
+### 저해상도 조류 이미지 분류 AI 알고리즘 개발
 
 - Goal : 저해상도 조류 이미지 분류 AI 알고리즘 개발
 - Using Model : Swin Transformer V2
