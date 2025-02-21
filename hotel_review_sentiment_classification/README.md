@@ -6,12 +6,12 @@
 
 ## Process
 - Positive count: 1845 / Negative count: 1293
-- Normalization -> Remove all characters except Korean letters and spaces
-- Utilize Okt object -> Separate into morphemes and words 
-- Remove stop words
+- **Normalization**: Remove all characters except Korean letters and spaces
+- **Utilize Okt object**: Separate into morphemes and words 
+- **Remove stop words**
   - Use the Korean stop word dictionary provided by RANKS NL
   - Additional and removal of stop words specific to the collected hotel review dataset
-- Tokenization: Converting Character Indexes to Vectors
+- **Tokenization**: Converting Character Indexes to Vectors
 - Remove rare words with word frequency less than 2 times
 - Set the maximum length to be used for padding to ‘200’
 
