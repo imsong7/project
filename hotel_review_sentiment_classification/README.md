@@ -5,7 +5,7 @@
 - **Data**: Reviews of “hotels in Seoul” on TripAdvisor, total of 3,126 collected
 
 ## Process
-- Positive count: 1845 / Negative count: 1293
+- Positive count: 1845 | Negative count: 1293
 - **Normalization**: Remove all characters except Korean letters and spaces
 - **Utilize Okt object**: Separate into morphemes and words 
 - **Remove stop words**
